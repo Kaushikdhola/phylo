@@ -19,6 +19,27 @@
 
 Watch fitness landscapes emerge, observe selection pressure in real time, and explore the phylogenetic lineage of the champion idea.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Welcome Screen</b></td>
+    <td align="center"><b>Force Graph + Live Log</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/welcome.png" alt="Welcome Screen" width="100%"></td>
+    <td><img src="screenshots/force-graph.png" alt="Force Graph" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Phylogenetic Tree + Ranking</b></td>
+    <td align="center"><b>Analytics Dashboard</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/phylo-tree.png" alt="Phylo Tree" width="100%"></td>
+    <td><img src="screenshots/analytics.png" alt="Analytics" width="100%"></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Multi-Agent Evolution** — Four specialized agents (Generator, Judge, Mutator, Crossbreeder) collaborate and compete through evolutionary cycles
