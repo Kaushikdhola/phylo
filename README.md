@@ -70,7 +70,7 @@ Watch fitness landscapes emerge, observe selection pressure in real time, and ex
 ### 1. Clone & configure
 
 ```bash
-git clone https://github.com/<your-username>/phylo.git
+git clone https://github.com/Kaushikdhola/phylo.git
 cd phylo
 ```
 
